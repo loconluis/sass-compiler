@@ -1,0 +1,17 @@
+{
+  "name": "sass-compiler",
+  "version": "0.1.0",
+  "description": "Sass compiler",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": {
+    "name": "Luis Locon",
+    "email": "luis.locon@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
